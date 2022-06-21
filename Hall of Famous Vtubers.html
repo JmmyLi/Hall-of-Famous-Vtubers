@@ -1,0 +1,203 @@
+<!--
+  Hall of Famous Vtubers
+  
+  Agenda:
+    1. polyhedrons at four corners(colors if possible)
+    2. #Kizuna's font(pink with white border)
+    3. vtuber images
+    4. vtuber names
+    5. vtuber tags(search function)
+    6. vtuber links(accounts:b站,youtube,twitch,niconico...)
+
+    7. brief description(if possible&  !!below!!  )
+    8. NSFW mode(challenge? || 萌娘黑幕实现)
+    9. langs(Chinese for now)
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="vtb.css">
+    <link rel="stylesheet" href="polyhedro.css">
+    <title>Hall of Famous Vtubers</title>
+    <style></style>
+</head>
+
+<body>
+    <!-- beautiful rotating objects -->
+    <div class="polyhedron up">
+        <div class="rotateContainer upleft">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rotateContainer upright">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- page contents -->
+    <div class="main">
+        <header>
+            <button class="changeLang" id="LLEFT">中文</button>
+            <h1 class="color-gradient">Hall of Famous Vtubers</h1>
+            <button class="changeLang" id="LRIGHT">中文</button>
+        </header>
+        <ul id="vtbs">
+            <li class="profile">
+                <div class="thumbnail" style="width: 120.3px;">
+                    <a href="https://bilibili.com"><img src="img/gawr gura.png" alt="gawr gura" width="100px"></a>
+                </div>
+                <div class="name" style="width: 118.975px;">
+                    <p>Gawr Gura</p>
+                </div>
+                <div class="tags">
+                    <p>tags:<br>-blue<br>-white</p>
+                </div>
+            </li>
+            <li class="profile">
+                <div class="thumbnail" style="width: 120.3px;">
+                    <a href="https://bilibili.com"><img src="img/gawr gura.png" alt="gawr gura" width="100px"></a>
+                </div>
+                <div class="name" style="width: 118.975px;">
+                    <p>Gawr Gura</p>
+                </div>
+                <div class="tags">
+                    <p>tags:<br>-blue<br>-white</p>
+                </div>
+            </li>
+        </ul>
+
+
+        <hr />
+
+        <h4>About this page</h4>
+        <p>
+            This page was created by <a href="https://github.com/JmmyLi" target="_blank">Jimmy Li</a> (a student from AP <abbr title="Computer Science Principles">CSP</abbr> class) at Ningbo Hanvos Kent School.
+            <br><i>All avatars used above are under BY - NC Licenses</i>
+        </p>
+        <button id="learnMore">Click to learn more</button>
+        <p id="more">
+            This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
+        </p>
+
+    </div>
+    <script src="vtubers.js"></script>
+    <script type="text/javascript" src="click.js">
+    </script>
+
+    <!-- beautiful rotating object -->
+    <div class="polyhedron down">
+        <div class="rotateContainer downleft">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rotateContainer downright">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="poly.js"></script>
+</body>
+
+</html>

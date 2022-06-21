@@ -1,0 +1,61 @@
+.profile {
+    width: 150px;
+    height: 230px;
+    shape-rendering: geometricPrecision;
+}
+
+.thumbnail {
+    margin: 5px auto;
+    text-align: center;
+    display: flex;
+}
+
+.name {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tags {
+    margin-top: 5px;
+    text-align: center;
+}
+
+#vtbs {
+    margin: 10px;
+}
+
+#Rhea {
+    width: auto;
+    height: 100px;
+    margin-left: -400px;
+    position: absolute;
+    clip: rect(0px 500px 100px 400px);
+    overflow: hidden;
+    border-radius: 0%;
+}
+
+#Yumeoto_Chano {
+    height: 84.5px;
+}
+
+#LuyeeLuLu,
+#Noir {
+    width: 300px;
+    margin-left: -85px;
+    height: auto;
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0px 300px 100px 0px);
+    border-radius: 0%;
+}
+
+#Leona {
+    width: 90px;
+    margin-top: -1px;
+    margin-left: 7px;
+    height: auto;
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0px 300px 211px 0px);
+}

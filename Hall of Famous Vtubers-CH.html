@@ -1,0 +1,203 @@
+<!--
+  Hall of Famous Vtubers
+  
+  Agenda:
+    1. polyhedrons at four corners(colors if possible)
+    2. #Kizuna's font(pink with white border)
+    3. vtuber images
+    4. vtuber names
+    5. vtuber tags(search function)
+    6. vtuber links(accounts:b站,youtube,twitch,niconico...)
+
+    7. brief description(if possible&  !!below!!  )
+    8. NSFW mode(challenge? || 萌娘黑幕实现)
+    9. langs(Chinese for now)
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="vtb.css">
+    <link rel="stylesheet" href="polyhedro.css">
+    <title>虚拟主播名人堂</title>
+    <style></style>
+</head>
+
+<body>
+    <!-- beautiful rotating objects -->
+    <div class="polyhedron up">
+        <div class="rotateContainer upleft">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rotateContainer upright">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- page contents -->
+    <div class="main">
+        <header>
+            <button class="changeLang" id="LLEFT">English</button>
+            <h1 class="color-gradient">虚拟主播名人堂</h1>
+            <button class="changeLang" id="LRIGHT">English</button>
+        </header>
+        <ul id="vtbs">
+            <li class="profile">
+                <div class="thumbnail" style="width: 120.3px;">
+                    <a href="https://bilibili.com"><img src="img/gawr gura.png" alt="gawr gura" width="100px"></a>
+                </div>
+                <div class="name" style="width: 118.975px;">
+                    <p>Gawr Gura</p>
+                </div>
+                <div class="tags">
+                    <p>tags:<br>-blue<br>-white</p>
+                </div>
+            </li>
+            <li class="profile">
+                <div class="thumbnail" style="width: 120.3px;">
+                    <a href="https://bilibili.com"><img src="img/gawr gura.png" alt="gawr gura" width="100px"></a>
+                </div>
+                <div class="name" style="width: 118.975px;">
+                    <p>Gawr Gura</p>
+                </div>
+                <div class="tags">
+                    <p>tags:<br>-blue<br>-white</p>
+                </div>
+            </li>
+        </ul>
+
+
+        <hr />
+
+        <h4>关于此页</h4>
+        <p>
+            本网页由<a href="https://github.com/JmmyLi" target="_blank">Jimmy Li</a>所作。(一位来自 AP <abbr title="Computer Science Principles">计算机科学原理</abbr> 课的学生)
+            <br><i>以上所有的头像以及图片都为BY - NC许可</i>
+        </p>
+        <button id="learnMore">点击以了解更多</button>
+        <p id="more">
+            本网页旨在对于知名虚拟主播做简短介绍，并可以帮那些想要查找虚拟主播的用户节省搜索时间。
+        </p>
+
+    </div>
+    <script src="vtubers-CH.js"></script>
+    <script type="text/javascript" src="click.js">
+    </script>
+
+    <!-- beautiful rotating object -->
+    <div class="polyhedron down">
+        <div class="rotateContainer downleft">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rotateContainer downright">
+            <div class="slide s0">
+                <div class="slide s1">
+                    <div class="slide s11">
+                        <div class="slide s12"></div>
+                        <div class="slide s111"></div>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="slide s21">
+                        <div class="slide s22"></div>
+                        <div class="slide s211"></div>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="slide s31">
+                        <div class="slide s32"></div>
+                        <div class="slide s311"></div>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="slide s41">
+                        <div class="slide s42"></div>
+                        <div class="slide s411"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="poly.js"></script>
+</body>
+
+</html>
