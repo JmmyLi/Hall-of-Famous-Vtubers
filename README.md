@@ -2,7 +2,7 @@
 # (AP CSP FINAL PROJECT IN MASTER BRANCH)
 This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
 
-##Agenda:
+## Agenda:
 > 1. polyhedrons at two upper corners(colors if possible)
 > > (done with ___no color___)
 > 2. Kizuna's font(pink with white border)
@@ -18,7 +18,7 @@ This webpage is a simple webpage that introduce Vtubers. It is very simple and y
 > 7. different languages(Chinese&English for now)
 > > (done with ___only names and titles using two different pages___)
 
-##Future:
+## Future:
 > 8. adding more vtubers
 > 9. brief description
 > 10. NSFW mode(challenge? || 萌娘黑幕实现?)
