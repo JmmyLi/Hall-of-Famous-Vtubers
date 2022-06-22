@@ -2,6 +2,9 @@
 # (AP CSP FINAL PROJECT IN MASTER BRANCH)
 This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
 
+## How to open and run?
+> Just download this repo and open one of the html file in your browser.
+
 ## Agenda:
 > 1. polyhedrons at two upper corners(colors if possible)
 > > (done with ___no color___)
