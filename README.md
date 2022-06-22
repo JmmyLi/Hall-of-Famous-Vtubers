@@ -9,6 +9,7 @@ This webpage is a simple webpage that introduce Vtubers. It is very simple and y
 
 ## URL
 website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/
+
 repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 
 ## Agenda:
