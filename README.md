@@ -12,6 +12,10 @@ website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/
 
 repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 
+## Contributor
+dr-spaceman: https://github.com/dr-spaceman
+An anonymous bilibili user who provides information about 20 vtbs
+
 ## Todo:
 > - [x] 1. Kizuna's font(pink with white border)
 > - [x] 2. vtuber images
