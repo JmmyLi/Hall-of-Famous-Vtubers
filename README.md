@@ -21,7 +21,7 @@ repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 > 5. vtuber tags(and search by tags if possible)
 > > (done with ___no search function___)
 > 6. vtuber links(accounts:b站,youtube,twitch,niconico...)
-> > (done with ___only one link___)
+> > (done with ___only one link each___)
 > 7. different languages(Chinese&English for now).
 > > (done with ___only names and titles are translated using two different pages___)
 
