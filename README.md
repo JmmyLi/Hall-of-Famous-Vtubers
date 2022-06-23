@@ -13,7 +13,7 @@ website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/
 repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 
 ## Contributor
-dr-spaceman: https://github.com/dr-spaceman
+dr-spaceman: https://github.com/dr-spaceman provides technical instructions for this website
 
 An anonymous bilibili user who provides information about 20 vtbs
 
