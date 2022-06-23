@@ -12,15 +12,12 @@ website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/
 
 repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 
-## Agenda:
+## Todo:
+> - [x] 2. Kizuna's font(pink with white border)
+> - [x] 3. vtuber images
+> - [x] 4. vtuber names
 > 1. polyhedrons at two upper corners(colors if possible)
 > > (done with ___no color___)
-> 2. Kizuna's font(pink with white border)
-> > (done)
-> 3. vtuber images
-> > (done)
-> 4. vtuber names
-> > (done)
 > 5. vtuber tags(search function)
 > > (done with ___no search function___)
 > 6. vtuber links(accounts:b站,youtube,twitch,niconico...)
