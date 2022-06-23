@@ -18,12 +18,12 @@ repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
 > - [x] 3. vtuber names
 > 4. polyhedrons at two upper corners(colors if possible)
 > > (done with ___no color___)
-> 5. vtuber tags(search function)
+> 5. vtuber tags(and search by tags if possible)
 > > (done with ___no search function___)
 > 6. vtuber links(accounts:b站,youtube,twitch,niconico...)
-> > (done with ___single link___)
+> > (done with ___only one link___)
 > 7. different languages(Chinese&English for now).
-> > (done with ___only names and titles using two different pages___)
+> > (done with ___only names and titles are translated using two different pages___)
 
 ## Future:
 > 8. adding more vtubers
