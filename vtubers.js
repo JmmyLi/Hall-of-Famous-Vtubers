@@ -92,9 +92,9 @@ var thumbs = [
     'https://img.moegirl.org.cn/common/thumb/a/a9/%E8%95%BE%E5%B0%94%E5%A8%9C2.0.jpg/154px-%E8%95%BE%E5%B0%94%E5%A8%9C2.0.jpg',
     'https://i0.hdslb.com/bfs/face/566078c52b408571d8ae5e3bcdf57b2283024c27.jpg@240w_240h_1c_1s.webp',
     'https://i2.hdslb.com/bfs/face/668af440f8a8065743d3fa79cfa8f017905d0065.jpg@240w_240h_1c_1s.webp',
-    'http://i1.hdslb.com/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg@96w_96h_1c.webp',
+    'https://i1.hdslb.com/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg@96w_96h_1c.webp',
     'https://img1.baidu.com/it/u=1648853151,425434859&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500',
-    'http://i1.hdslb.com/bfs/face/8895c87082beba1355ea4bc7f91f2786ef49e354.jpg@96w_96h_1c.webp'
+    'https://i1.hdslb.com/bfs/face/8895c87082beba1355ea4bc7f91f2786ef49e354.jpg@96w_96h_1c.webp'
 ]
 var platforms = [
     'https://www.youtube.com/c/AIChannel',
