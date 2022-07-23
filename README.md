@@ -2,6 +2,7 @@
 
 This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/JmmyLi/Hall-of-Famous-Vtubers/blob/master/LICENSE.bib)
 [![CodeFactor](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers/badge)](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers)
 
 ## Built with
