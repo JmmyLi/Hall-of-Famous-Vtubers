@@ -2,9 +2,12 @@
 
 This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/JmmyLi/Hall-of-Famous-Vtubers/blob/master/LICENSE.bib)
 [![CodeFactor](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers/badge)](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/JmmyLi/Hall-of-Famous-Vtubers)
+<br>
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-blue.svg)](https://github.com/JmmyLi/Hall-of-Famous-Vtubers/blob/master/LICENSE.bib)
+<br>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/JmmyLi/Hall-of-Famous-Vtubers)
+
 
 ## Built with
 * html
@@ -12,12 +15,17 @@ This webpage is a simple webpage that introduce Vtubers. It is very simple and y
 * javascript
 
 ## URL
-website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/
+<a href="https://jmmyli.github.io/Hall-of-Famous-Vtubers/Hall%20of%20Famous%20Vtubers.html"><img alt="webpage" src="https://img.shields.io/badge/website-Hall%20of%20Famous%20Vtubers-blue"></a>
+<!-- website: https://jmmyli.github.io/Hall-of-Famous-Vtubers/ -->
 
-repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers
+<a href="https://github.com/JmmyLi/Hall-of-Famous-Vtubers"><img alt="repository" src="https://img.shields.io/badge/repository-Hall--of--Famous--Vtubers-blue"></a>
+<!-- repository: https://github.com/JmmyLi/Hall-of-Famous-Vtubers -->
 
 ## Contributor
-dr-spaceman: https://github.com/dr-spaceman provides technical instructions for this website
+<a href="https://github.com/dr-spaceman"><img alt="dr-spaceman" src="https://img.shields.io/badge/GitHub-dr--spaceman-blue?logo=github"></a>
+provides technical instructions for this website
+
+<!-- dr-spaceman: https://github.com/dr-spaceman provides technical instructions for this website -->
 
 An anonymous bilibili user who provides information about 20 vtbs
 
