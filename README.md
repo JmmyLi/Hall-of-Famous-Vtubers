@@ -1,6 +1,8 @@
 # Hall-of-Famous-Vtubers
-# (AP CSP FINAL PROJECT IN MASTER BRANCH)
+
 This webpage is a simple webpage that introduce Vtubers. It is very simple and you could find the vtuber you like easier than searching.
+
+[![CodeFactor](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers/badge)](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers)
 
 ## Built with
 * html
