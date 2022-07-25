@@ -1,58 +1,58 @@
 let k = 0
 const VTB = document.getElementById('vtbs')
 var profileOutput = ''
-var vtubers = [
-    //0-5
-    'Kizuna AI', //hololive
-    'Gawr Gura', //hololive
-    'Vox akuma', //hololive
-    '神楽七奈', //hololive
-    '湊-阿库娅', //hololive
-    //6-8
-    'Veibae', //VShojo
-    'Nyanners', //VShojo
-    '樱花狼', //VShojo
-    //9-11
-    '西园千草', //nijisanji
-    '御伽原江良', //nijisanji
-    '一百满天原莎乐美', //nijisanji
-    //12-13
-    '花留Karu', //VirtuaReal
-    '瑞娅_Rhea', //VirtuaReal
-    //14-16
-    'Paryi', //P
-    '椎名菜羽', //P
-    '神楽めあ', //P Mea
-    //17-26
-    '冰糖IO', //personal
-    'OveRidea_China', //personal
-    'Hiiro', //personal
-    '阿准', //personal
-    '梦音茶糯', //personal
-    '步玎Pudding', //personal
-    '宇佐紀ノノ_usagi', //?personal
-    'LuckyCupcake', //?personal
-    '時雨羽衣', //?personal
-    '有栖Mana', //?personal
-    //27-33
-    '希月萌奈', //?
-    'Projekt Melody', //?
-    'Shoto', //?
-    '永雏塔菲', //?
-    '黑泽诺亚NOIR', //?
-    'Shizukou', //?
-    '鹿乃ちゃん', //?
-    //34-36
-    '蕾尔娜Leona', //company
-    '陆鳐LuLu', //!
-    '木子喵neko', //personal
-    //37-41
-    '向晚', //A-SOUL AVA
-    '贝拉kira', //A-SOUL Bella
-    '珈乐', //A-SOUL Carol
-    '嘉然', //A-SOUL Diana
-    '乃琳Queen' //A-SOUL Eileen
-]
+    // var vtubers = [
+    //     //0-5
+    //     'Kizuna AI', //hololive
+    //     'Gawr Gura', //hololive
+    //     'Vox akuma', //hololive
+    //     '神楽七奈', //hololive
+    //     '湊-阿库娅', //hololive
+    //     //6-8
+    //     'Veibae', //VShojo
+    //     'Nyanners', //VShojo
+    //     '樱花狼', //VShojo
+    //     //9-11
+    //     '西园千草', //nijisanji
+    //     '御伽原江良', //nijisanji
+    //     '一百满天原莎乐美', //nijisanji
+    //     //12-13
+    //     '花留Karu', //VirtuaReal
+    //     '瑞娅_Rhea', //VirtuaReal
+    //     //14-16
+    //     'Paryi', //P
+    //     '椎名菜羽', //P
+    //     '神楽めあ', //P Mea
+    //     //17-26
+    //     '冰糖IO', //personal
+    //     'OveRidea_China', //personal
+    //     'Hiiro', //personal
+    //     '阿准', //personal
+    //     '梦音茶糯', //personal
+    //     '步玎Pudding', //personal
+    //     '宇佐紀ノノ_usagi', //?personal
+    //     'LuckyCupcake', //?personal
+    //     '時雨羽衣', //?personal
+    //     '有栖Mana', //?personal
+    //     //27-33
+    //     '希月萌奈', //?
+    //     'Projekt Melody', //?
+    //     'Shoto', //?
+    //     '永雏塔菲', //?
+    //     '黑泽诺亚NOIR', //?
+    //     'Shizukou', //?
+    //     '鹿乃ちゃん', //?
+    //     //34-36
+    //     '蕾尔娜Leona', //company
+    //     '陆鳐LuLu', //!
+    //     '木子喵neko', //personal
+    //     //37-41
+    //     '向晚', //A-SOUL AVA
+    //     '贝拉kira', //A-SOUL Bella
+    //     '珈乐', //A-SOUL Carol
+    //     '嘉然', //A-SOUL Diana
+    //     '乃琳Queen' //A-SOUL Eileen
+    // ]
 var thumbs = [
     'https://i2.hdslb.com/bfs/face/478c8351dc6046e32993f8b03a0d566ffb395ff1.jpg@96w_96h_1c.webp',
     'https://img.moegirl.org.cn/common/2/20/251247_457554.jpg',
