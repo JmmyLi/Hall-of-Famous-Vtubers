@@ -9,7 +9,7 @@
     height: 100px;
     position: fixed;
     perspective: 1000px;
-    margin: 0px 0px;
+    margin: 0px;
     z-index: -1;
     text-align: center;
     /* outline: solid 1px red; */
@@ -164,22 +164,23 @@
     width: 500px;
 }
 
-.downright {
+.rotateContainer {
+    display: inline-block;
+}
+
+
+/* .downright {
     margin-left: 100px;
     position: fixed;
     right: 0%;
     top: 0px;
-    /* transform: translateX(100px); */
+    //transform: translateX(100px);
 }
 
 .downleft {
     margin: 0px;
     width: 500px;
-}
-
-.rotateContainer {
-    display: inline-block;
-}
+} */
 
 
 /* .polyhedron .rotateContainer .slide:hover {

@@ -51,7 +51,7 @@ var vtubers = [
     '贝拉kira', //A-SOUL Bella
     '珈乐', //A-SOUL Carol
     '嘉然', //A-SOUL Diana
-    '乃琳Queen' //A-SOUL Eileen
+    '乃琳' //A-SOUL Eileen
 ]
 var thumbs = [
     'https://i2.hdslb.com/bfs/face/478c8351dc6046e32993f8b03a0d566ffb395ff1.jpg@96w_96h_1c.webp',
@@ -214,7 +214,7 @@ var v = {
     'Bella': createFile('Bella', "贝拉", ['王贝拉', '拉姐'], ['female', 'red'], 'A-SOUL'), //A-SOUL Bella
     'Carol': createFile('Carol', "珈乐", ['王力口乐'], ['female', 'purple'], 'A-SOUL'), //A-SOUL Carol
     'Diana': createFile('Diana', "嘉然", ['然然', '王嘉然', '然比', '圣嘉然'], ['female', 'pink'], 'A-SOUL'), //A-SOUL Diana
-    'Eileen': createFile('Eileen', "乃琳Queen", ['王乃琳'], ['female', 'silver'], 'A-SOUL') //A-SOUL Eileen
+    'Eileen': createFile('Eileen', "乃琳", ['王乃琳'], ['female', 'silver'], 'A-SOUL') //A-SOUL Eileen
 }
 
 for (var key in v) {
