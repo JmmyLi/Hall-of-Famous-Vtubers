@@ -1,11 +1,11 @@
 let polyhedron1 = document.querySelector(".polyhedron")
     // let polyhedron2 = document.querySelector(".down")
 
-let WIDTH = document.body.clientWidth
-let HEIGHT = document.body.clientHeight
-    // const P = document.getElementById('polyhedron')
-    // P.style.
-    // console.log(WIDTH + '*' + HEIGHT)
+// let WIDTH = document.body.clientWidth
+// let HEIGHT = document.body.clientHeight
+// const P = document.getElementById('polyhedron')
+// P.style.
+// console.log(WIDTH + '*' + HEIGHT)
 
 let rotateBase1 = polyhedron1.querySelector(".upleft")
 let rotateBase2 = polyhedron1.querySelector(".upright")
