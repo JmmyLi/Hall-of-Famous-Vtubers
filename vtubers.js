@@ -224,7 +224,7 @@ for (var key in v) {
     for (var t = 0; t < v[key].tags.length; ++t) {
         tagsOutput += '<br>-' + v[key].tags[t]
     }
-    profileOutput += '<a href="' + v[key].platform + '" target="_blank"><li class="profile"><div class="thumbnail" style="width: 100px;height: 100px;"><img id="' + key + '" src="' + v[key].img + '" alt="' + v[key].enName + '" width="100px"></div><div class="name" style="width: 100%;"><p>' + v[key].enName + '</p></div><div class="tags"><p>tags:' + tagsOutput + '</p></div></li></a>\n'
+    profileOutput += '<a href="' + v[key].platform + '" target="_blank" rel="noopener"><li class="profile"><div class="thumbnail" style="width: 100px;height: 100px;"><img id="' + key + '" src="' + v[key].img + '" alt="' + v[key].enName + '" width="100px"></div><div class="name" style="width: 100%;"><p>' + v[key].enName + '</p></div><div class="tags"><p>tags:' + tagsOutput + '</p></div></li></a>\n'
         // console.log(key + '=' + v[key])
         // console.log(profileOutput)
 }
