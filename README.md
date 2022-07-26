@@ -37,7 +37,7 @@ An anonymous bilibili user who provides information about 20 vtbs
 > > (done with ___no color___)
 > 5. vtuber tags(and search by tags if possible)
 > > (done with ___no search function___)
-> 6. vtuber links(accounts:b站,youtube,twitch,twitter, niconico...)
+> 6. vtuber links(accounts:b站,youtube,twitch,twitter,niconico...)
 > > (done with ___only one link each___)
 > 7. different languages(Chinese&English for now).
 > > (done with ___only names and titles are translated using two different pages___)
