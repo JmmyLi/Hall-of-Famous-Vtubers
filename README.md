@@ -23,11 +23,11 @@ This webpage is a simple webpage that introduce Vtubers. It is very simple and y
 
 ## Contributor
 <a href="https://github.com/dr-spaceman"><img alt="dr-spaceman" src="https://img.shields.io/badge/GitHub-dr--spaceman-blue?logo=github"></a>
-provides technical instructions for this website
+has provided technical instructions for this website
 
 <!-- dr-spaceman: https://github.com/dr-spaceman provides technical instructions for this website -->
 
-An anonymous bilibili user who provides information about 20 vtbs
+An anonymous bilibili user who has provided information about 20 vtbs
 
 ## Todo:
 > - [x] 1. Kizuna's font(pink with white border)
