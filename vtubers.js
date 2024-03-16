@@ -55,7 +55,7 @@ var profileOutput = ''
     // ]
 var thumbs = [
     'https://i2.hdslb.com/bfs/face/478c8351dc6046e32993f8b03a0d566ffb395ff1.jpg@96w_96h_1c.webp',
-    'https://img.moegirl.org.cn/common/2/20/251247_457554.jpg',
+    'https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s160-c-k-c0x00ffffff-no-rj',
     'https://i2.hdslb.com/bfs/face/70afd239f7f7a0c33b03dbfc5aa74775360176da.jpg@96w_96h_1c.webp',
     'https://i0.hdslb.com/bfs/face/a7195c09c6ba4722966d745d6f692035d3fe4d95.jpg@96w_96h_1c.webp',
     'https://img0.baidu.com/it/u=2867066545,1052264813&fm=253&fmt=auto&app=138&f=GIF?w=498&h=498',
