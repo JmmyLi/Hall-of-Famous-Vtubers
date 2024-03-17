@@ -25,12 +25,10 @@ This webpage is a simple webpage that introduce Vtubers. It is very simple and y
 <a href="https://github.com/dr-spaceman"><img alt="dr-spaceman" src="https://img.shields.io/badge/GitHub-dr--spaceman-blue?logo=github"></a>
 has provided technical instructions for this website
 
-<!-- dr-spaceman: https://github.com/dr-spaceman provides technical instructions for this website -->
-
 An anonymous bilibili user who has provided information about 20 vtbs
 
 ## Todo:
-> - [x] 1. Kizuna's font(pink with white border)
+> - [x] 1. Kizuna Color reference
 > - [x] 2. vtuber images
 > - [x] 3. vtuber names
 > 4. polyhedrons at two upper corners(colors if possible)
