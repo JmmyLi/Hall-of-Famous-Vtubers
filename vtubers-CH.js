@@ -171,7 +171,7 @@ var v = {
     'Minato_Aqua': createFile('Minato Aqua', "湊阿库娅", [''], ['female', 'pink', 'white'], 'hololive'), //hololive
     //4-7
     'Veibae': createFile('Veibae', "Veibae", ['魏碑', '白色魅魔'], ['female', 'succubus'], 'VShojo'), //VShojo
-    'Nyatasha_Nyanners': createFile('Nyatasha Nyanners', "Nyatasha Nyanners", [''], ['female', 'pink', 'white'], 'VShojo'), //VShojo
+    'Nyatasha_Nyanners': createFile('Nyatasha Nyanners', "喵娜丝", [''], ['female', 'pink', 'white'], 'VShojo'), //VShojo
     'Silvervale': createFile('Silvervale', "樱花狼", [''], ['female', 'blue', 'pink'], 'VShojo'), //VShojo
     'Projekt_Melody': createFile('Projekt Melody', "Projekt Melody", [''], ['female', 'purple'], 'VShojo'), //VShojo
     //8-11
