@@ -1,6 +1,6 @@
 # Hall-of-Famous-Vtubers
 
-This webpage is a simple webpage that introduce famous Vtubers. You could find vtubers you like based on your preferences.
+This is a simple webpage that introduces famous Vtubers. You could find Vtubers you like based on your preferences.
 
 [![CodeFactor](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers/badge)](https://www.codefactor.io/repository/github/jmmyli/hall-of-famous-vtubers)
 <br>
